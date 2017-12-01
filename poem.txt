@@ -1,4 +1,4 @@
-Mary had a little lamb,
+Sam had a little lamb,
 its fleece was white as snow,
 and everywhere that Mary went,
 the lamb was sure to go.
@@ -21,4 +21,3 @@ constant turtles bear
 constellation Libra
 How about 9 * 9?
 The quick brown fox jumped over the lazy dog.
-Salut
